@@ -5,9 +5,20 @@
   margin-top: 20px;
   margin-bottom: 20px;
   box-sizing: border-box;
+  width: 50%;
+  margin: auto;
+  display: block;
+
 }
 
 .centered-image {
-  width: 50%;
-  height: auto;
+  width: auto;
+  margin: auto;
+  height: 500px;
+  display: block;
+
+}
+
+.body {
+  background-color: aqua;
 }
